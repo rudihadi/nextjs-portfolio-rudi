@@ -85,7 +85,7 @@ export const portfolioinfo = [
     title: "TTI Export",
     description: "TTI Export",
     slug: "TTI Export",
-    info: "Designation",
+    info: "Codeigniter 3 | Bootstrap V5 | Ajax",
     Class: "md:mt-0",
   },
   {
@@ -97,7 +97,7 @@ export const portfolioinfo = [
     title: "STI Integrated Portal",
     description: "STI Integrated Portal",
     slug: "STI Integrated Portal",
-    info: "Designation",
+    info: "Codeigniter 3 | Bootstrap V4",
     Class: "md:mt-6",
   },
   {
@@ -109,7 +109,7 @@ export const portfolioinfo = [
     title: "Progress Monitoring",
     description: "Progress Monitoring",
     slug: "Progress Monitoring",
-    info: "Designation",
+    info: "Codeigniter 3 | Bootstrap V4",
     Class: "md:mt-0",
   },
   {
@@ -121,7 +121,7 @@ export const portfolioinfo = [
     title: "IT Assets",
     description: "IT Assets",
     slug: "IT Assets",
-    info: "Designation",
+    info: "Codeigniter 3 | Bootstrap V4",
     Class: "md:mt-6",
   },
   {
@@ -133,7 +133,7 @@ export const portfolioinfo = [
     title: "Certificate STI",
     description: "Certificate STI",
     slug: "Certificate STI",
-    info: "Designation",
+    info: "ReactJS | Bootstrap V5",
     Class: "md:mt-0",
   },
   {
@@ -145,7 +145,7 @@ export const portfolioinfo = [
     title: "Total Productive Maintenance",
     description: "Total Productive Maintenance",
     slug: "Total Productive Maintenance",
-    info: "Designation",
+    info: "Codeigniter 3 | Bootstrap V4",
     Class: "md:mt-0",
   },
   //   {
