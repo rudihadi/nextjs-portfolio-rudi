@@ -17,10 +17,12 @@ const Hero = () => {
             Hai 👋🏼
           </h1>
           <p className="text-grey dark:text-white/70 text-xl font-semibold">
-            Saya Rudi Hadi Syahfitrah! Saya seorang Junior Programmer di PT
-            Sumatera Timber Indo Industry. Saya bertanggung jawab dalam
-            mengembangkan aplikasi web sesuai dengan kebutuhan pengguna,
-            memastikan solusi yang efisien dan user-friendly
+            Saya adalah seorang Staff IT yang berbasis di Medan, Indonesia,
+            dengan pengalaman di bidang teknologi informasi sejak tahun 2018.
+            Saya memulai karier sebagai IT Support pada tahun 2018 hingga 2023,
+            kemudian beralih menjadi Junior Programmer sejak tahun 2023. Saat
+            ini, saya terus mengembangkan kemampuan dan memperdalam keahlian di
+            bidang pemrograman.
           </p>
         </div>
 
